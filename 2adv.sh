@@ -12,3 +12,5 @@ whereis find >> wh.txt
 echo $PATH >> wh.txt
 echo $PATH 
 which cat
+./a.out
+
